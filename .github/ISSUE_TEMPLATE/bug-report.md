@@ -9,7 +9,7 @@ assignees: ''
 
 REPRODUCIBILITY (% or how often): 
 BUILD ID = OS VERSION (Settings | About product): 
-HARDWARE (XA2, X10, X10 II, X10 III, Jolla C2, ...): 
+HARDWARE (XA2, X10, X10 II, X10 III, Jolla C2, Jolla Mind2, ...): 
 DID IT WORK CORRECTLY ON THE PREVIOUS PUBLIC RELEASE: 
 
 
